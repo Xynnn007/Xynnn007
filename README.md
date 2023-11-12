@@ -1,4 +1,4 @@
-![me](https://raw.githubusercontent.com/Xynnn007/Xynnn_/main/86.png)
+![me](https://raw.githubusercontent.com/Xynnn007/Xynnn007/main/86.png)
 
 ## Hey 👋, I'm Ding a.k.a Xynnn
 
