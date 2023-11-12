@@ -4,7 +4,7 @@
 
 Hi there, I'm **Ding**.
 
-- I graduated from Cyberspace Security Academy, SJTU
+- I graduated from School of Cyber Science and Engineering, SJTU
 - I love music 🎸🎹.
 - I am an idealist, hope for world peace.
 - I live in Shanghai, China.
