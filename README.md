@@ -8,7 +8,7 @@ Hi there, I'm **Ding**.
 - I love music 🎸🎹.
 - I am an idealist, hope for world peace.
 - I live in Shanghai, China.
-- I work for Alibaba Cloud (Aliyun), mainly focus on Confidential Computing.
+- I now work for Alibaba Cloud (Aliyun), mainly focus on Confidential Computing.
 
 ### Contact me:
 
